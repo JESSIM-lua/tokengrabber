@@ -23,7 +23,7 @@ This script searches for Discord tokens stored on a user's computer and displays
 1. Clone this repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/token-grabber.git
+    git clone https://github.com/JESSIM-lua/tokengrabber.git
     ```
 
 2. Navigate to the project directory:
