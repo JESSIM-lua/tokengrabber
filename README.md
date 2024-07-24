@@ -1,5 +1,3 @@
-Sure, here you are my fren:
-
 ### README for Token Grabber Script
 
 # Token Grabber
