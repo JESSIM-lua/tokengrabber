@@ -29,7 +29,7 @@ This script searches for Discord tokens stored on a user's computer and displays
 2. Navigate to the project directory:
 
     ```sh
-    cd token-grabber
+    cd tokengrabber
     ```
 
 ## Usage
